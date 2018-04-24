@@ -1,0 +1,29 @@
+[33mcommit 0867080a5ec3c9e1c1ded05ce3e899f4097c500f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Barbaros Akkurt <bakkurt@gmail.com>
+Date:   Tue Apr 24 12:01:26 2018 +0300
+
+    Yeni python dosyalari ilave edildi.
+
+[33mcommit ec400589269d58e56d4cd397a6e79cb535879dfd[m
+Author: Barbaros Akkurt <bakkurt@gmail.com>
+Date:   Fri Apr 20 11:44:55 2018 +0300
+
+    silinecek_klasor isimli klasör ve içindekiler silindi.
+
+[33mcommit 11fab9e8f31ec8e187e77535a175fb3bfd030382[m
+Author: Barbaros Akkurt <bakkurt@gmail.com>
+Date:   Fri Apr 20 11:42:12 2018 +0300
+
+    iki dosya eklendi.
+
+[33mcommit d180b3880ac69c0426c0d6e2a325177b883201a3[m
+Author: Barbaros Akkurt <bakkurt@gmail.com>
+Date:   Fri Apr 20 11:30:30 2018 +0300
+
+    Carpma dosyasi silindi.
+
+[33mcommit 90e169bd3724ed247afc6f05ff1b2367f29f8fe4[m
+Author: Barbaros Akkurt <bakkurt@gmail.com>
+Date:   Fri Apr 20 11:01:58 2018 +0300
+
+    cikarma metodundaki satirlar silindi. Toplama metodundan iki satir silindi, iki satir ilave edildi.
