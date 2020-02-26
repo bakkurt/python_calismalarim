@@ -65,7 +65,7 @@ while True:
     for i in hesaplama.keys():
         #print(i)
         molekül_ağırlığı += float(hesaplama[i]) * int(atom_sayısı[i])
-    print("Molekül ağırlığı: ",molekül_ağırlığı)
+    print("Molekül ağırlığı (g/mol): ",molekül_ağırlığı)
 
     yüzdeler = {}
 
